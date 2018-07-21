@@ -1,0 +1,4 @@
+
+2018-07-11 15:37:25[verbose] COM7 connected
+2018-07-11 15:37:25[error] <class 'Exception'> must be str, not bytes
+2018-07-11 15:37:25[verbose] False TypeError('must be str, not bytes',)
